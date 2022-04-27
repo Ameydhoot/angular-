@@ -1,0 +1,53 @@
+{
+  "posts": [
+    {
+      "id": 9,
+      "name": "Praskash fdddcc",
+      "email": "abhishek@gmail.com",
+      "mobile": "123456789",
+      "address": "sb",
+      "services": "tea"
+    }
+  ],
+  "signup": [
+    {
+      "name": "Amey",
+      "mobile": "9876543210",
+      "email": "amey@gmail.com",
+      "password": "1234",
+      "id": 1
+    },
+    {
+      "name": "Test It",
+      "mobile": "0987654321",
+      "email": "Test@gmail.com",
+      "password": "1234",
+      "id": 2
+    },
+    {
+      "name": "Praskash",
+      "mobile": "98765432",
+      "email": "Prakash@gmail.com",
+      "password": "1234",
+      "id": 3
+    },
+    {
+      "name": "Praskash",
+      "mobile": "123456789",
+      "email": "Prakash@gmail.com",
+      "password": "1234",
+      "id": 4
+    },
+    {
+      "name": "Ashish",
+      "mobile": "987654321",
+      "email": "Ashish@gmail.com",
+      "password": "1234",
+      "id": 5
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}

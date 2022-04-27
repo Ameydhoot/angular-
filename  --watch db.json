@@ -1,0 +1,16 @@
+{
+  "posts": [
+    {
+      "id": 2,
+      "name": "shree",
+      "email": "abhishek@gmail.com",
+      "mobile": " 12345678",
+      "address": " 1",
+      "services": "abc"
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
